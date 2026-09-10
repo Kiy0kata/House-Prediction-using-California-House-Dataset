@@ -1,3 +1,5 @@
+[california_housing_prediction.ipynb](https://github.com/user-attachments/files/32053971/california_housing_prediction.ipynb)
+
 # California House Price Predictor
 
 ## 📌 Project Overview
@@ -34,7 +36,7 @@ To validate the model's behavior, a scatter plot was generated to compare the ac
    ```
 3. Run the script or Jupyter Notebook:
    ```bash
-   python house_price_predictor.py
+   california_housing_prediction.ipynb
    ```
 
 ## 🔮 Future Enhancements
