@@ -21,7 +21,7 @@ The model was trained on 80% of the dataset and evaluated on the remaining 20% u
 ### Actual vs. Predicted Price Visualization
 To validate the model's behavior, a scatter plot was generated to compare the actual baseline values against the model's predictions. The dashed red line represents a perfect prediction model.
 
-![Actual vs Predicted Prices Visual](actual vs predicted house values.png)
+![Actual vs Predicted Prices Visual](actual%20vs%20predicted%20house%20values.png)
 
 ## 🚀 How to Run This Project Local
 1. Clone this repository:
